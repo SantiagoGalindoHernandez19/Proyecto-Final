@@ -14,6 +14,8 @@ PROYECTO:
 ---
 Ahorcado 
 
+---
+
 
 LOGO:
 ---
@@ -21,3 +23,6 @@ LOGO:
 
 ---
 
+FUNCIONAMIENTO
+---
+Ahorcado el cual cuenta con 4 paneles de inicio ( Jugar, Instrucciones, Ajustes, Salir). El banco de palabras es modificable, puesto que, cuenta con una base de datos en donde a partir de unos arhivos de texto, lee las palabras y te dara opciones para jugar con esas palabras. 
