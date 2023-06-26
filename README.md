@@ -57,3 +57,47 @@ La funcion declarar grupos lo que hace es declarar una lista vacia, abre el arch
 ![ELIMINAR GRUPO DE PALABRAS](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/8dcffd8b-b5ff-49d2-9f0c-259a1943f916)
 
 
+---
+
+La definicion escribir grupos lo que hace es borrar todo lo que se, de esta manera cuando le enviemos el archivo de grupo ya modificados, volvera a escribir todo el arreglo dando impresion de que se ha eliminado. 
+
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/f4aa692c-84ad-4096-a93a-9b44e9f0a704)
+
+---
+
+La definicion de jugar, en primera instancia se pondra en global las letras y los intentos para poder modificarlas, las letras escritas que ya probo el jugador se reinician a nada 
+
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/36e3c608-3db4-4bf9-8c4c-239a1db02f02)
+
+---
+
+La definicion preparar palabra, lleva lo que lleva el usuario adivinado, por cada letra que haya en la palabra original, vamos agregarle a la palabra adivinada dos cosas un diccionario que contendra la letra y adivinada con false or true 
+
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/491f02ef-e1e5-4e05-9cb5-078380cf904d)
+
+
+---
+
+Lo que hace imprimir palabra esque por cada letra compuesta por la palabra adivinada si ya esta adivinada esta en true entonces imprimimos lo que hay en letra y si no imprimimos el guion
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/c8530de1-63ca-4aa4-bf2a-835d05f1adc9)
+
+---
+
+La definicion descubrir letra, lo que hace hace todo global para modificarlo, si la letra de usuario esta en las letras escritas regresa, porque ya lo habia intentando pues de esta manera no bajara vidas, si no le restamos un intento
+
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/6f979521-b3d5-43ae-aab0-ee6c6d41e57c)
+
+---
+
+La definicion de ha ganado lo que hace es que recorre toda la palabra adivinada 
+
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/59999aed-942b-462f-aa8d-d06696a3bd15)
+
+---
+
+El ultimo codigo a explicar es el muñeco de ahorcado segun los intentos realizados
+
+![image](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/615a9e38-b69c-4a82-b0e9-31ee9735bdf9)
+
+
+
