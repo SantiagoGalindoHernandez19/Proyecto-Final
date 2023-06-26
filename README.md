@@ -54,3 +54,6 @@ Esta es nuestra funcion principal la cual se encarga preparar el archivo de todo
 
 La funcion declarar grupos lo que hace es declarar una lista vacia, abre el archivo quitandole el salto de linea y agregamos a grupos la linea, del mismo modo funciona la definición argumentos de grupo. En la funcion eliminar grupo de palabras por pantalla va a imprimir la lista de grupos y le pregunta al usuario cual va a escoger 
 
+![ELIMINAR GRUPO DE PALABRAS](https://github.com/SantiagoGalindoHernandez19/Proyecto-Final/assets/124641609/8dcffd8b-b5ff-49d2-9f0c-259a1943f916)
+
+
